@@ -1,0 +1,14 @@
+/*img	{
+	float: right;
+}*/
+
+
+img	{
+	float: left;
+	width: 120px;
+	margin-right: 10px;
+}
+p.left	{
+	width: 120px;
+	float: left;
+}

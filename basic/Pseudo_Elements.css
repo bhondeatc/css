@@ -1,0 +1,7 @@
+/* p ::first-line  {
+  color: #FF00AA
+} */
+p::-moz-selection   {
+  background: gray;
+  color: #ffff;
+}

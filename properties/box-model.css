@@ -1,0 +1,12 @@
+div.pertama	{
+	width: 300px;
+	padding: 25px;
+	border: 25px solid navy;
+	margin: 25px;
+}
+div.kedua {
+	width: 320px;
+	padding: 10px;
+	border: 5px solid gray;
+	margin: 0;
+}

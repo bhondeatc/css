@@ -1,0 +1,14 @@
+/*property*/
+p {
+	word-spacing: nowrap;
+}
+/*values*/
+p.pre {
+	word-spacing: pre;
+}
+p.preline {
+	word-spacing: pre-line;
+}
+p.prewrap {
+	word-spacing: pre-wrap;
+}

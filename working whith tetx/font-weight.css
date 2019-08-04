@@ -1,0 +1,16 @@
+p.light {
+	font-weight: lighter;
+}
+p.bold {
+	font-weight: bold;
+}
+p.bolder {
+	font-weight: bolder;
+}
+/*lanjutan nya*/
+p.thick {
+	font-weight: bold;
+}
+p.thicker {
+	font-weight: 700;
+}

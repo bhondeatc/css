@@ -1,0 +1,14 @@
+/*property*/
+p.normal {
+	letter-spacing: normal;
+}
+p.positive {
+	letter-spacing: 4px;
+}
+/*negative values*/
+p.positive {
+	letter-spacing: 4px;
+}
+p.negative {
+	letter-spacing: -2.5px;
+}

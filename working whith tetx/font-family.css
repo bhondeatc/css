@@ -1,0 +1,36 @@
+/*p.serif {
+	font-family: "Thimes New Rohman", Thimes, serif;	
+}
+p.sansserif {
+	font-family: Hertical, Arial, sans-serif;
+}
+p.monospace {
+	font-family: "Courier New", Courier, monospace;
+}
+p.cursive {
+	font-family: Florence, cursive;
+}
+p.fanatasty {
+	font-family: Blippo, fantasy;
+}*/
+
+
+/*p.serif {
+	font-family: serif;	
+}
+p.sansserif {
+	font-family: sans-serif;
+}
+p.monospace {
+	font-family: monospace;
+}
+p.cursive {
+	font-family: cursive;
+}
+p.fanatasty {
+	font-family: fantasy;
+}*/
+
+body {
+	font-family: Arial, "Hertical Neve", Hertical, sans-serif;
+}

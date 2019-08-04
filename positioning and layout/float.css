@@ -1,0 +1,43 @@
+.div1	{
+	float: left;
+	width: 100px;
+	height: 50px;
+	margin: 10px;
+	border: 3px solid green;
+}
+.div2	{
+	border: 1px solid red;
+	height: 80px;
+}
+.div3	{
+	float: left;
+	width: 100px;
+	height: 50px;
+	margin: 10px;
+	border: 3px solid green;
+}
+.div4	{
+	border: 1px solid red;
+	clear: left;
+}
+/* fload right */
+.right {
+	float: right;
+    width: 170px;
+    height: 170px;
+    margin-left:  15px;
+}
+/* fload left */
+.left {
+	float: left;
+  	width: 170px;
+  	height: 170px;
+  	margin-left:  15px;
+}
+/* fload none */
+.none {
+	float: none;
+  	width: 170px;
+  	height: 170px;
+  	margin-left:  15px;
+}

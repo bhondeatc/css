@@ -1,0 +1,22 @@
+td.top {
+	vertical-align: top;
+}
+td.middle {
+	vertical-align: middle;
+}
+td.bottom {
+	vertical-align: bottom;
+}
+/*lanjutanya*/
+span.baseline {
+	vertical-align: baseline;
+}
+span.sub {
+	vertical-align: sub;
+}
+span.super {
+	vertical-align: super;
+}
+span.pixel {
+	vertical-align: -10px;
+}

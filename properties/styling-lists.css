@@ -1,0 +1,15 @@
+/*property*/
+ol.lower-alpa {
+	list-style-type: lower-alpha;
+}
+ul.circle {
+	list-style-type: circle;
+}
+ul.square {
+	list-style-type: square;
+}
+/*image and position*/
+ul.pertama	{
+	list-style-image: url("http://www.sololearn.com//images/bullet.jpg");
+	list-style-position: inside;
+}

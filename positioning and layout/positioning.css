@@ -1,0 +1,37 @@
+/*p.position_static	{
+	position: static;
+	top: 30px;
+	right: 5px;
+	color: red;
+}	
+p.position_fixed	{
+	position: fixed;
+	top: 30px;
+	right: 5px;
+	color: red;
+}*/
+div.static {
+	position: static;
+	border: 3px solid red;
+	color: black;
+}
+div.relative {
+	position: relative;
+	left: 30px;
+	border: 3px solid yellow;
+	color: blue;
+}
+div.fixed {
+	position: fixed;
+	border: 3px solid green;
+	color: black;
+}
+
+span	{
+	background: gray;
+	color: white;
+	position: relative;
+	top: 150px;
+	left: 50px;
+
+}
