@@ -1,7 +1,7 @@
-/* p ::first-line  {
+p ::first-line  {
   color: #FF00AA
-} */
-p::-moz-selection   {
+}
+/* p::-moz-selection   {
   background: gray;
   color: #ffff;
-}
+} */
