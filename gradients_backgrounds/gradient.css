@@ -1,0 +1,43 @@
+/* multiple */
+.satu {
+  height: 150px;
+  width: 400px;
+  background-image: linear-gradient(red, yellow);
+}
+.dua  {
+  height: 150px;
+  width: 400px;
+  background-image: linear-gradient(to right, red , yellow);
+}
+.tiga {
+  height: 150px;
+  width: 400px;
+  background-image: linear-gradient(to bottom right, red, yellow);
+}
+/* color stop */
+.grad1 {
+  text-align: center;
+  height: 150px;
+  width: 500px;
+  background-image: linear-gradient(red, yellow, green);
+}
+
+.grad2 {
+  text-align: center;
+  height: 150px;
+  width: 500px;
+  background-image: linear-gradient(red, orange, yellow, green, blue, indigo, violet);
+}
+
+.grad3 {
+  text-align: center;
+  height: 150px;
+  width: 500px;
+  background-image: linear-gradient(red 10%, green 85%, blue 90%);
+}
+.grad4  {
+  text-align: center;
+  height: 200px;
+  width: 800px;
+  background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+}
