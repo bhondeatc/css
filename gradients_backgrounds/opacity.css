@@ -1,0 +1,18 @@
+.alpa1  {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo3MZc8wKfFtqDtuIpsdZVCa94rQZTluO9tQZsnmx4gZ9RQ0RZ");
+  opacity: 1;
+  height: 200px;
+  width: 320px;
+}
+.alpa2  {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo3MZc8wKfFtqDtuIpsdZVCa94rQZTluO9tQZsnmx4gZ9RQ0RZ");
+  opacity: 0.5;
+  height: 200px;
+  width: 320px;
+}
+.alpa3  {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo3MZc8wKfFtqDtuIpsdZVCa94rQZTluO9tQZsnmx4gZ9RQ0RZ");
+  opacity: 0.15;
+  height: 200px;
+  width: 320px;
+}

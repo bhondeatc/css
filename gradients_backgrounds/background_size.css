@@ -1,0 +1,29 @@
+.size1 {
+  height: 150px;
+  width: 200px;
+  border: 1px solid #000;
+  background: url("http://www.sololearn.com/uploads/css_logo.png") no-repeat 50% 50%;
+  background-size: 100px 100px;
+}
+
+.size2 {
+  height: 150px;
+  width: 200px;
+  border: 1px solid #000;
+  background: url("http://www.sololearn.com/uploads/css_logo.png") no-repeat 50% 50%;
+  background-size: contain;
+}
+
+.size3 {
+  height: 150px;
+  width: 200px;
+  border: 1px solid #000;
+  background: url("http://www.sololearn.com/uploads/css_logo.png") no-repeat 50% 50%;
+  background-size: cover;
+}
+
+h5  {
+  background-color: skyblue;
+  width: 100px;
+  text-align: center;
+}

@@ -1,0 +1,30 @@
+.radial1  {
+  text-align: center;
+  height: 150px;
+  width: 400px;
+  background-image: radial-gradient(#0000CC, #4400CC, #8800CC);
+}
+.radial2 {
+  text-align: center;
+  height: 150px;
+  width: 400px;
+  background-image: radial-gradient(#FF002A, #FFFF00, #00FFD4);
+}
+.radial3  {
+  text-align: center;
+  height: 150px;
+  width: 200px;
+  background-image: radial-gradient(green, yellow, red);
+}
+.radial4  {
+  text-align: center;
+  height: 150px;
+  width: 200px;
+  background-image: radial-gradient(red 5%, yellow 15%, green 60%);
+}
+.radial5  {
+  text-align: center;
+  height: 300px;
+  width: 300px;
+  background-image: repeating-radial-gradient(red, yellow 10px, green 15px);
+}

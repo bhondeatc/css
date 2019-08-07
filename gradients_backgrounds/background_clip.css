@@ -1,0 +1,18 @@
+p.padding {
+  border: 2px dotted black;
+  padding: 20px;
+  background: orchid;
+  background-clip: padding-box;
+}
+p.content {
+  border: 2px dotted black;
+  padding: 20px;
+  background: orchid;
+  background-clip: content-box;
+}
+div {
+    background-image: url("http://www.sololearn.com/uploads/css_logo.png");
+    background-clip: content-box;
+    border: 2px dotted black;
+    padding: 20px;
+}
