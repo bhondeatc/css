@@ -1,0 +1,23 @@
+.div1 {
+    width: 150px;
+    height: 150px;
+    background: #990066;
+    transition: width 3s;
+    -webkit-transition: width 3s;
+}
+div:hover {
+    width: 250px;
+}
+
+.div2 {
+    width: 100px;
+    height: 100px;
+    background: #32CD32;
+    transition: width 3s;
+    transition-timing-function: cubic-bezier(0,0,1,1);
+    -webkit-transition: width 3s;
+    -webkit-transition-timing-function: cubic-bezier(0,0,1,1);
+}
+div:hover {
+    width: 250px;
+}

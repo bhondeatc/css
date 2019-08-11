@@ -1,0 +1,71 @@
+.keyframes {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  -webkit-animation-name: example;
+  -webkit-animation-duration: 5s;
+  animation-name: example;
+  animation-duration: 5s;
+}
+@-webkit-keyframes example {
+  from  {background-color: red;}
+  to {background-color: yellow;}
+}
+
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+/* animation-timing-function */
+div {
+  width: 100px;
+  height: 50px;
+  background-color: red;
+  text-align: center;
+  font-weight: bold;
+  position: relative;
+  -webkit-animation: mymove 5s infinite;
+  animation: mymove 5s infinite;
+}
+
+#div1 {-webkit-animation-timing-function: linear;}
+#div2 {-webkit-animation-timing-function: ease;}
+#div3 {-webkit-animation-timing-function: ease-in;}
+#div4 {-webkit-animation-timing-function: ease-out;}
+#div5 {-webkit-animation-timing-function: ease-in-out;}
+
+#div1 {animation-timing-function: linear;}
+#div2 {animation-timing-function: ease;}
+#div3 {animation-timing-function: ease-in;}
+#div4 {animation-timing-function: ease-out;}
+#div5 {animation-timing-function: ease-in-out;}
+
+@-webkit-keyframes mymove {
+  from {left: 0px;}
+  to {left: 300px;}
+}
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 300px;}
+}
+
+.fiil-mode {
+  width: 100px;
+  height: 100px;
+  background: red;
+  position: relative;
+  -webkit-animation-name: example;
+  -webkit-animation-duration: 3s;
+  -webkit-animation-fill-mode: forwards;
+  animation-name: example;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+}
+@-webkit-keyframes example {
+  from {top: 0px;}
+  to {top: 200px; background-color: blue;}
+}
+@keyframes example {
+  from {top: 0px;}
+  to {top: 200px; background-color: blue;}
+}
